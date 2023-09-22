@@ -1,3 +1,65 @@
+/* Remove all colors and unnecessary styles */
+:root {
+  --ifm-breadcrumb-color-active: black !important;
+  --ifm-menu-color-active: black !important;
+}
+
+html {
+  background-color: white;
+  color: black;
+  font-size: 12.5px;
+  line-height: 125%;
+}
+
+/* Override styles for the right section sidebar */
+.right-sidebar {
+  text-transform: uppercase;
+  font-size: 8px;
+}
+
+/* Remove all background images, gradients, and borders */
+*, *::before, *::after {
+  background-image: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Remove all hover effects */
+*:hover {
+  opacity: 1 !important;
+}
+
+/* Hide elements that don't fit the brutalist design */
+.header-github-link,
+.footer--dark,
+.unique-tabs,
+[data-theme='light'] .themedDocusaurus,
+[data-theme='dark'] .themedDocusaurus,
+[data-theme='light'] .DocSearch,
+[data-theme='dark'] .DocSearch,
+div[class^='announcementBar_'],
+.screen-reader-only,
+[data-theme='light'] img[src$='#gh-dark-mode-only'],
+[data-theme='dark'] img[src$='#gh-light-mode-only'],
+.test-marker-site-custom-css-unique-rule,
+.video-container,
+.yt-lite > .lty-playbtn,
+.dropdown-separator,
+.dropdown-archived-versions {
+  display: none;
+}
+
+/* Additional global adjustments */
+body, div, p, h1, h2, h3, h4, h5, h6, a, span, ul, li, img, button {
+  font-family: 'Arial', sans-serif; /* or whatever font you want */
+  font-weight: normal;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+
+<!---
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -28,3 +90,4 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+--->
