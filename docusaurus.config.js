@@ -49,7 +49,7 @@ const config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'https://uploads-ssl.webflow.com/636a3e03534428f9a8a469aa/641c37a4fce0f1c717da3692_nco-symbol-black.svg',
     navbar: {
       title: 'My Site',
       logo: {
@@ -79,7 +79,7 @@ const config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/tutorial-basics/introduction', // Updated the link
+              to: 'https://google.com', // Updated the link
             },
           ],
         },
