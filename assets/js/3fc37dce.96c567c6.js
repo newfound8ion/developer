@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdeveloper_newcoin_org=self.webpackChunkdeveloper_newcoin_org||[]).push([[2828],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

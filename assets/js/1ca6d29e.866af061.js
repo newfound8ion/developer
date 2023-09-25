@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdeveloper_newcoin_org=self.webpackChunkdeveloper_newcoin_org||[]).push([[9965],{2449:e=>{e.exports=JSON.parse('{"permalink":"/developer/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
