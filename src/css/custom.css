@@ -144,4 +144,9 @@ a:hover {
 .hero {
   background-color: #ffffff !important;
 }
-
+.footer--dark {
+  --ifm-footer-background-color: #ffffff;
+  --ifm-footer-color: #000000;
+  --ifm-footer-link-color: #000000;
+  --ifm-footer-title-color: #000000;
+}
