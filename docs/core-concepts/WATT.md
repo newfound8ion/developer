@@ -2,13 +2,13 @@
 
 ## Introduction
 
-In the intricate web of decentralized networks and systems, identity representation has always posed a challenge. The **WATT Identity Proxy** emerges as an innovative solution in the Newcoin ecosystem, tying the essence of creative energy to a universally queryable, account-bound fungible token.
+Identity representation has always posed a challenge. The **WATT Identity Proxy** is a non-transferable token balance that can be queried as a representation of a wallet's Proof-of-Creativity: tying the essence of creative energy to a universally queryable endpoint.
 
 ## Decoding the WATT Identity Proxy
 
 ### Conceptual Foundations
 
-The WATT draws its inspiration from the real-world dynamics of creativity. Just as energy is both omnipresent and unique in its manifestations, the WATT stands as a distinct representation of a creator's individual and cumulative contributions within a decentralized landscape.
+The WATT draws its inspiration from the real-world dynamics of creativity. Just as energy is both omnipresent and unique in its manifestations, the WATT stands as a distinct representation of a creator's individual and cumulative contributions throughout the Internet.
 
 ### Universally Queryable
 
