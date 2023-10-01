@@ -22,7 +22,7 @@
 /* General styling */
 body, html, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, a,
-abbr, acronym, address, big, cite, code, del, dfn,
+abbr, acronym, address, big, cite, del, dfn,
 em, img, ins, kbd, q, s, samp, small, strike,
 strong, sub, sup, tt, var, b, u, i, center,
 dl, dt, dd, ol, ul, li, fieldset, form, label,
@@ -56,11 +56,6 @@ a:hover {
   color: #000000;
 }
 
-/* Table of contents styling */
-.table-of-contents li {
-  line-height:80% !important;
-  padding-bottom:8px;
-}
 
 /* Navbar styling */
 .navbar--fixed-top {
@@ -148,18 +143,5 @@ a:hover {
 /* Hero section styling */
 .hero {
   background-color: #ffffff !important;
-}
-
-/* Footer customization */
-.footer--dark {
-  --ifm-footer-background-color: #ffffff;
-  --ifm-footer-color: #000000;
-  --ifm-footer-link-color: #000000;
-  --ifm-footer-title-color: #000000;
-}
-
-.footer__links a {
-  text-transform: uppercase;
-  font-size: 8px !important;
 }
 
