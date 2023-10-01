@@ -150,3 +150,16 @@ a:hover {
   --ifm-footer-link-color: #000000;
   --ifm-footer-title-color: #000000;
 }
+/* src/css/custom.css */
+
+.blog-overview-container {
+  display: flex;
+}
+
+.blog-list {
+  width: 25%;
+}
+
+.blog-posts {
+  width: 75%;
+}
