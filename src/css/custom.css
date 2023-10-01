@@ -31,6 +31,7 @@ th, td, article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, menu,
 nav, output, ruby, section, summary, time, mark,
 audio, video {
+  font-size: 23.3px !important;
   background-color: #ffffff;
   color: #000000;
   border-color: #000000;
@@ -40,7 +41,7 @@ audio, video {
 
 /* General styling for all elements */
 * {
-  font-size: 23.3px;
+  font-size: 23.3px !important;
   font-weight: normal;
   line-height: 170%;
   font-family: 'Newfoundation Whyte' !important;
