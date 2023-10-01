@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Identity representation has always posed a challenge. The **WATT Identity Proxy** is a non-transferable token balance that can be queried as a representation of a wallet's Proof-of-Creativity: tying the essence of creative energy to a universally queryable endpoint.
+Privacy-preserving native identity representation has always posed a challenge. The **WATT Identity Proxy** is a non-transferable token balance that can be queried as a representation of a wallet's Proof-of-Creativity: tying the essence of creative energy to a universally queryable endpoint.
 
 ## Decoding the WATT Identity Proxy
 
