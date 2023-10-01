@@ -14,11 +14,7 @@ const FeatureList: FeatureItem[] = [
       <>
         Newcoin is a log of cryptographically signed credentials that are processed in parallel using a probabilistic 
         state machine to achieve a shared consensus state powered by the Proof-of-Creativity algorithm. 
-        <ul>
-          <li><b>Robust</b> Newcoin is designed to interface with diverse systems, handling varied input data types and formats. By strictly regulating output while accommodating a broad spectrum of inputs, networks achieve consistent and clear communication across nodes.</li>
-          <li><b>Adaptive</b> As Newcoin collects data signals, the Proof-of-Creativity algorithm recursively adjusts its centrality measurement and makes the next computation more accurate and relevant.</li>
-          <li><b>Synergistic</b>  Newcoin is designed to mutualize data and computation into a shared intelligence greater than the sum of their separate intelligence. A like on social media enhances the decentralization of a consensus mechanism which in turn fuels better data inputs to ML pipelines.</li>
-        </ul>
+       
       </>
     ),
   },
