@@ -42,6 +42,5 @@ In this step, we've covered:
 
 - How to register the activation function with the Encoder, providing relevant details and obtaining a unique ID.
 - How to activate the function, interacting with the Encoder and triggering the logic to mint WATTs.
-- Handling asynchronous logic by ensuring that the activation function communicates back to the Encoder upon receiving off-chain data.
 
 By effectively interacting with the Encoder, developers ensure that the activation functions can mint WATTs upon successfully validating predefined conditions, thereby contributing to the user’s algorithmic reputation within the Newcoin ecosystem. This seamless integration enables the efficient minting of WATTs, providing a tangible representation of real-world activities and verifications on the blockchain.

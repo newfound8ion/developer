@@ -30,7 +30,7 @@ function request() public {
 
     // Define request parameters
     string memory addressAsString = string(abi.encodePacked(msg.sender));
-    string memory targetUrl = string(abi.encodePacked('https://api.guild.xyz/v1/guild/access/16389/', addressAsString));
+    string memory targetUrl = string(abi.encodePacked('https://api.guild.xyz/v1/guild/access/19282/', addressAsString));
 
     req.add('method', 'GET');
     req.add('url', targetUrl);
