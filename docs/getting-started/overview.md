@@ -4,6 +4,8 @@ In this tutorial, we'll walk through the process of creating an activation funct
 
 Subsequently, we'll explore how to query and utilize these WATT scores in various applications, both on and off the blockchain.
 
+We'll walk through the following steps:
+
 ## 1. Creating the Activation Function
 
 Discover how to define and implement an activation function, which acts as the foundational mechanism for the Newcoin system.

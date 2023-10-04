@@ -1,1 +1,0 @@
-# Gitcoin and guild.xyz

@@ -44,7 +44,19 @@ const sidebars = {
     {
       type: "category",
       label: "Guides",
-      items: ["guides/gitcoin-guild"],
+      items: [
+        {
+          type: "category",
+          label: "Gitcoin, Guild.xyz and Chainlink",
+          items: [
+            "guides/gitcoin-chainlink-guild/introduction",
+            "guides/gitcoin-chainlink-guild/stubbing-the-contract",
+            "guides/gitcoin-chainlink-guild/implementing-function-oracle",
+            "guides/gitcoin-chainlink-guild/securing-the-contract",
+            "guides/gitcoin-chainlink-guild/registering-the-function",
+          ],
+        },
+      ],
     },
   ],
 };
