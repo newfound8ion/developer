@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/getting-started/overview">
             Get Started With Newcoin
           </Link>
         </div>
@@ -26,7 +26,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://github.com/newfound8ion/newcoin-evm">
-            Newcoin EVM Repository on GitHub
+            Newcoin EVM GitHub Repo
           </Link>
         </div>
       </div>
@@ -43,6 +43,7 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+         
         <img 
           src="/img/hypernetwork.png" 
           alt="Newcoin Hypernetwork" 
@@ -53,10 +54,15 @@ export default function Home(): JSX.Element {
             marginTop: '0', 
           }} 
         />
-        <div className={styles.buttons}>
+<div className="container">
+         <h2>🦾 Robust</h2> <p>Newcoin is designed to interface with diverse systems, handling varied input data types and formats. By strictly regulating output while accommodating a broad spectrum of inputs, networks achieve consistent and clear communication across nodes.</p>
+          <h2>✨ Adaptive</h2> <p> As Newcoin collects data signals, the Proof-of-Creativity algorithm recursively adjusts its centrality measurement and makes the next computation more accurate and relevant. Inspired by Google's PageRank algorithm, each node carries a weight that impacts the whole hypernetwork.</p>
+          <h2>♻️ Synergistic</h2> <p>  Newcoin is designed to mutualize data and computation into a shared intelligence greater than the sum of their separate intelligence. A like on social media enhances the decentralization of a consensus mechanism which in turn fuels better data inputs to ML pipelines. All networks grow together regardless of their topology.</p>
+       </div>
+ <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/getting-started/overview">
             Get Started With Newcoin
           </Link>
         </div>

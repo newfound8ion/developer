@@ -14,6 +14,7 @@ const FeatureList: FeatureItem[] = [
       <>
         Newcoin is a log of cryptographically signed credentials that are processed in parallel using a probabilistic 
         state machine to achieve a shared consensus state powered by the Proof-of-Creativity algorithm. 
+       
       </>
     ),
   },

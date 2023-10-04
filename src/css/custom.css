@@ -19,98 +19,35 @@
   --ifm-line-height-base: 170%;
 }
 
-body,
-html,
-div,
-span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-b,
-u,
-i,
-center,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td,
-article,
-aside,
-canvas,
-details,
-embed,
-figure,
-figcaption,
-footer,
-header,
-hgroup,
-menu,
-nav,
-output,
-ruby,
-section,
-summary,
-time,
-mark,
-audio,
-video {
+/* General styling */
+body, html, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, a,
+abbr, acronym, address, big, cite, del, dfn,
+em, img, ins, kbd, q, s, samp, small, strike,
+strong, sub, sup, tt, var, b, u, i, center,
+dl, dt, dd, ol, ul, li, fieldset, form, label,
+legend, table, caption, tbody, tfoot, thead, tr,
+th, td, article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup, menu,
+nav, output, ruby, section, summary, time, mark,
+audio, video {
+
   background-color: #ffffff;
   color: #000000;
   border-color: #000000;
   font-weight: normal;
+  font-family: 'Newfoundation Whyte' !important;
 }
+
+/* General styling for all elements */
 * {
   font-size: 23.3px;
   font-weight: normal;
   line-height: 170%;
+  font-family: 'Newfoundation Whyte' !important;
 }
 
+/* Anchor styling */
 a {
   color: #000000;
   text-decoration: none;
@@ -120,7 +57,8 @@ a:hover {
   color: #000000;
 }
 
-/* Additional styles based on your existing CSS */
+
+/* Navbar styling */
 .navbar--fixed-top {
   padding: 0px;
 }
@@ -146,6 +84,7 @@ a:hover {
   box-shadow: 0.25px 0 0.25px 0 #000000;
 }
 
+/* More navbar styling */
 .navbar__items--right {
   width: 324px;
   box-shadow: 0 0 0 0;
@@ -159,12 +98,14 @@ a:hover {
   background: var(--ifm-menu-link-sublist-icon) 50% / 1rem 1rem;
 }
 
+/* Markdown styling */
 .markdown a {
   text-decoration: underline;
 }
 
-.markdown > h2 {
+.markdown > h1 {
   --ifm-h2-font-size: 2.6rem;
+  letter-spacing: -1px;
 }
 
 .markdown > h2 {
@@ -179,33 +120,31 @@ a:hover {
   text-align: left !important;
 }
 
+/* Font face definition */
 @font-face {
   font-display: swap;
-  font-family: Newfoundation Whyte;
+  font-family: 'Newfoundation Whyte';
   font-style: normal;
   font-weight: 200;
-  src:
-    local(""),
-    url(/font/NewfoundationWhyte-Regular.woff) format("woff");
+  src: local(""), url(/font/NewfoundationWhyte-Regular.woff) format("woff");
 }
-/* Main div customization for background image */
+
+/* Home main div customization */
 .home main {
   padding-top: 800px;
-  background: url("/static/img/3854863592_d7778af733_o.jpg") no-repeat center
-    top;
+  background: url("/static/img/3854863592_d7778af733_o.jpg") no-repeat center top;
   background-size: cover;
 }
-/* Ensure hero background color is set to white in root */
+
+/* Root hero background color */
 :root {
   --ifm-hero-background-color: #ffffff;
 }
 
-/* Explicitly set the hero section background color to white */
+/* Hero section styling */
 .hero {
   background-color: #ffffff !important;
 }
-
-/* Footer customization */
 .footer--dark {
   --ifm-footer-background-color: #ffffff;
   --ifm-footer-color: #000000;
@@ -213,7 +152,3 @@ a:hover {
   --ifm-footer-title-color: #000000;
 }
 
-.footer__links a {
-  text-transform: uppercase;
-  font-size: 8px !important;
-}
