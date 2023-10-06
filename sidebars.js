@@ -56,6 +56,15 @@ const sidebars = {
             "guides/gitcoin-chainlink-guild/registering-the-function",
           ],
         },
+        {
+          type: "category",
+          label: "Jokerace Vote Checker",
+          items: [
+            "guides/joke-vote-race/introduction",
+            "guides/joke-vote-race/joke-vote",
+            "guides/joke-vote-race/joke-and-checker",
+          ],
+        },
       ],
     },
   ],

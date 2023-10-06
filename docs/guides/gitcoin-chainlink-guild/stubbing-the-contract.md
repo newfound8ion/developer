@@ -33,6 +33,7 @@ contract GuildPassport is IActivationFunctionAsync, ChainlinkClient, ConfirmedOw
     uint256 private activationFunctionId;
 
     mapping(address => bool) public passportHolders;
+    mapping(address => uint256) public pendingActivations;
 
     constructor() ConfirmedOwner(msg.sender) {
         setChainlinkToken(0x779877A7B0D9E8603169DdbD7836e478b4624789);
@@ -46,6 +47,7 @@ contract GuildPassport is IActivationFunctionAsync, ChainlinkClient, ConfirmedOw
 
 - ChainlinkClient and ConfirmedOwner are inherited from Chainlink contracts and help in interacting with Chainlink oracles and confirming contract ownership, respectively.
 - passportHolders: A mapping to track addresses that have already minted WATTs (to avoid double minting).
+- pendingActivations: A mapping for pending activations for reference for current pending oracle requests
 - oracleAddress, jobId, and fee are specific to the Chainlink setup and need to be configured based on your Chainlink node and job.
 - callback will store the address of the contract which will be notified once the condition check is complete.
 - activationFunctionId helps identify which activation function is being processed.
