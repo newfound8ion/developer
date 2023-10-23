@@ -8,6 +8,8 @@ In order to address this issue, Newcoin introduces a new paradigm for network in
 
 Under the hood, Newcoin is a log of cryptographically signed credentials that are processed in parallel using a probabilistic state machine to achieve a shared consensus state powered by the Proof-of-Creativity algorithm. Proof-of-Creativity generates an algoritmic identity proxy called the WATT (of creative energy) allowing networks to enhance the discernment of value creation by network participants, akin to Google's PageRank, applied to decentralized identity systems.
 
+![Architecture](newcoin-architecture.png)
+
 Beyond its ability to coordinate networks through a robust weight abstraction hypernetwork, Newcoin allows users to navigate and accrue social capital across networks of various topologies: from social to neural to blockchain networks, users compound social capital and establish trusted connections, financial and utility benefits.
 
 
