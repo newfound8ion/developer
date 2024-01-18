@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
     title: 'How does it work?',
     description: (
       <>
-        You can read wnd write Immutable Points onchain and offchain to build eventually consistent algorithmic mechanism design
+        You can read and write Immutable Points onchain and offchain to build eventually consistent algorithmic mechanism design
         and allow smart contracts to automate decisions such as ranking, permissions, ressource allocation and more.
       </>
     ),
