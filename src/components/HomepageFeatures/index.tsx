@@ -12,8 +12,8 @@ const FeatureList: FeatureItem[] = [
     title: 'What is Newcoin?',
     description: (
       <>
-        Newcoin is a log of cryptographically signed credentials that are processed in parallel using a probabilistic 
-        state machine to achieve a shared consensus state powered by the Proof-of-Creativity algorithm. 
+        Newcoin allows you to mint, distribute, compute and query Immutable Points across the World Wide Web. 
+        Immutable Points are like token balances but they measure the merits of a data object within a context.
        
       </>
     ),
@@ -31,8 +31,8 @@ const FeatureList: FeatureItem[] = [
     title: 'How does it work?',
     description: (
       <>
-        Contribute to the algorithm by deploying ActivationFunction contracts that contribute to the Proof-of-Creativity algorithm
-        and reward your users with trust points and query the WATT score of any blockchain wallet to instantly detect awesomeness.
+        You can read wnd write Immutable Points onchain and offchain to build eventually consistent algorithmic mechanism design
+        and allow smart contracts to automate decisions such as ranking, permissions, ressource allocation and more.
       </>
     ),
   },
