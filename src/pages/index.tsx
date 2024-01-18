@@ -18,15 +18,15 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/getting-started/overview">
-            Get Started With Newcoin
+            Get Started With IPSP
           </Link>
         </div>
         <img src="/img/welcome.png" alt="Welcome to the cutting-edge, anon!" style={{marginTop: '44px'}} />
         <div className={styles.buttons} style={{marginTop: '44px'}}>
           <Link
             className="button button--secondary button--lg"
-            to="https://github.com/newfound8ion/newcoin-evm">
-            Newcoin EVM GitHub Repo
+            to="https://github.com/newfound8ion/ipsp">
+            IPSP GitHub Repo
           </Link>
         </div>
       </div>
@@ -55,15 +55,15 @@ export default function Home(): JSX.Element {
           }} 
         />
 <div className="container">
-         <h2>🦾 Robust</h2> <p>Newcoin is designed to interface with diverse systems, handling varied input data types and formats. By strictly regulating output while accommodating a broad spectrum of inputs, networks achieve consistent and clear communication across nodes.</p>
-          <h2>✨ Adaptive</h2> <p> As Newcoin collects data signals, the Proof-of-Creativity algorithm recursively adjusts its centrality measurement and makes the next computation more accurate and relevant. Inspired by Google's PageRank algorithm, each node carries a weight that impacts the whole hypernetwork.</p>
-          <h2>♻️ Synergistic</h2> <p>  Newcoin is designed to mutualize data and computation into a shared intelligence greater than the sum of their separate intelligence. A like on social media enhances the decentralization of a consensus mechanism which in turn fuels better data inputs to ML pipelines. All networks grow together regardless of their topology.</p>
+         <h2>🦾 Robust</h2> <p>IPSP turns disparate and complex graph interaction histories into a universally queryable and unified data object.</p>
+          <h2>✨ Composable</h2> <p> Integrate points issuance and verification within your smart contract mechanics or interactions with other points.</p>
+          <h2>♻️ Synergistic</h2> <p> As more networks interoperate with the standard, the whole becomes greater than the sum of all its parts.</p>
        </div>
  <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/getting-started/overview">
-            Get Started With Newcoin
+            Get Started With IPSP
           </Link>
         </div>
       </main>
