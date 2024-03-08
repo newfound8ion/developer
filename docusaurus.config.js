@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Newcoin Developer",
-  tagline: "Encode Trust & Intelligence ~ Immutable Points Standard Protocol (IPSP)",
+  title: "Newcoin Developer Documentation",
+  tagline: "Build on the Agent Graph with IPSP and Newcoin",
   favicon: "img/636cdeb29d8af379852bdd3c_fav1.png",
 
   // Set the production url of your site here
