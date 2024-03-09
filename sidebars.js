@@ -7,6 +7,7 @@ const sidebars = {
       type: "category",
       label: "Core Concepts",
       items: [
+        "core-concepts/agents",
         "core-concepts/ipsp",
         "core-concepts/newkamoto-consensus",
         "core-concepts/WATT",
