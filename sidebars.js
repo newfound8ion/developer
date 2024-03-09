@@ -10,7 +10,7 @@ const sidebars = {
         "core-concepts/agents",
         "core-concepts/ipsp",
         "core-concepts/newkamoto-consensus",
-        "core-concepts/WATT", // If the file is named 'WATT.md', this is correct. If it's 'watt.md', use lowercase.
+        "core-concepts/WATT", 
         "core-concepts/base-points",
       ],
     },
@@ -19,7 +19,6 @@ const sidebars = {
       label: "Using Watts",
       items: [
         "getting-started/using-watts/querying-watts",
-        // Uncomment the following lines if the pages exist
         // "getting-started/using-watts/onchain",
         // "getting-started/using-watts/ethersjs",
       ],
