@@ -10,5 +10,8 @@ By doing so, IPSP not only facilitates a standardized schema for value statement
 
 IPSP has currently two implementations:
 
-- **Onchain Points**: [Learn about Onchain Points](https://developer.newcoin.org/docs/ipsp/onchain-points/)
-- **Verifiable Points**: [Explore Verifiable Points](https://developer.newcoin.org/docs/ipsp/verifiable-points/)
+- ** [Onchain Points](https://developer.newcoin.org/docs/ipsp/onchain-points/) **
+Onchain Points are non-transferable (soulbound) numerical (fungible) tokens that can be read by smart contracts using the rails of ERC-20 to unlock a wide range of use cases for onchain applications.
+
+- ** [Verifiable Points](https://developer.newcoin.org/docs/ipsp/verifiable-points/) **
+Verifiable Points are offchain but cryptographically signed and therefore verifiable, using the rails of SSI and attestations. You can query them from Ceramic via OrbisDB.
