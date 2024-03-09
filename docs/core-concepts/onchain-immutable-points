@@ -1,6 +1,0 @@
-# Onchain Immutable Points
-
-Onchain Immutable Points are like token balances but they measure the merits of a data object within a context.
-
-They help your smart contracts automate decisions about users and assets such as rankings, permissions, weights or trust thresholds.
-
