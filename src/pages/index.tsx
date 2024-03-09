@@ -17,8 +17,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/getting-started/overview">
-            Core Concepts
+            to="/docs/intro">
+            Introducing Newcoin
           </Link>
         </div>
         <img src="/img/welcome.png" alt="Welcome to the cutting-edge, anon!" style={{marginTop: '44px'}} />
@@ -62,8 +62,8 @@ export default function Home(): JSX.Element {
  <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/getting-started/overview">
-            Get Started
+            to="/docs/intro">
+            Newcoin for Apps
           </Link>
         </div>
       </main>
