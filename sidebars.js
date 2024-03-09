@@ -20,8 +20,8 @@ const sidebars = {
       label: "Using Watts",
       items: [
         "getting-started/using-watts/querying-watts",
-        // "getting-started/using-watts/onchain",
-        // "getting-started/using-watts/ethersjs",
+        "getting-started/using-watts/onchain",
+        "getting-started/using-watts/ethersjs",
       ],
     },
     {
