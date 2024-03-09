@@ -1,8 +1,8 @@
-# Introducing Newcoin For Developers
+# Introducing Newcoin For Apps
 
 Newcoin is an algorithmic points protocol allowing application developers to add up and tap into the intelligence of the Internet.
 
-In order to achieve this synergy, Newcoin will serialize and aggregate all the human and algorithmic signals available into Base Points which are on-chain values that represent the traits ane merits of a blockchain wallet to unlock new models.
+In order to achieve this synergy, Newcoin will serialize and aggregate all the human and algorithmic signals available into Base Points which are on-chain algorithmic points that represent the traits ane merits of a blockchain wallet to unlock new models. The sum of all the points constitutes a cross-platform Agent Graph, there each agent owns their relationships to all the other nodes of the graph.
 
 ![image](https://github.com/newfound8ion/developer/assets/112469623/941ebc1a-2257-44d9-82ff-eb645b000c06)
 
