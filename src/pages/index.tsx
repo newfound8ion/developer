@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/getting-started/overview">
-            Get Started With IPSP
+            Core Concepts
           </Link>
         </div>
         <img src="/img/welcome.png" alt="Welcome to the cutting-edge, anon!" style={{marginTop: '44px'}} />
@@ -63,7 +63,7 @@ export default function Home(): JSX.Element {
           <Link
             className="button button--secondary button--lg"
             to="/docs/getting-started/overview">
-            Get Started With IPSP
+            Get Started
           </Link>
         </div>
       </main>
