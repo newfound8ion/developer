@@ -10,19 +10,18 @@ const sidebars = {
         "core-concepts/agents",
         "core-concepts/ipsp",
         "core-concepts/newkamoto-consensus",
-        "core-concepts/WATT",
+        "core-concepts/WATT", // If the file is named 'WATT.md', this is correct. If it's 'watt.md', use lowercase.
         "core-concepts/base-points",
       ],
     },
-        {
-          type: "category",
-          label: "Using Watts",
-          items: [
-            "getting-started/using-watts/querying-watts",
-            // "getting-started/using-watts/onchain",
-            // "getting-started/using-watts/ethersjs",
-          ],
-        },
+    {
+      type: "category",
+      label: "Using Watts",
+      items: [
+        "getting-started/using-watts/querying-watts",
+        // Uncomment the following lines if the pages exist
+        // "getting-started/using-watts/onchain",
+        // "getting-started/using-watts/ethersjs",
       ],
     },
     {
