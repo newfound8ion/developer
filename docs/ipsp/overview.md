@@ -8,4 +8,7 @@ This mechanism aligns closely with the intrinsic human desire for recognition an
 
 By doing so, IPSP not only facilitates a standardized schema for value statements but also ensures that these representations are technology-agnostic, capable of bridging or proving value across platforms, programming languages, or communication protocols.IPSP's significance lies in its potential to revolutionize how value is perceived, measured, and exchanged in digital spaces. By providing a framework for the issuance, management, and verification of points, IPSP enables a decentralized system where individuals can accumulate and own their achievements across platforms, free from the constraints and control of any single entity. This not only empowers users but also fosters a more transparent, equitable, and interconnected digital ecosystem.Moreover, IPSP's open and permissionless nature ensures that it can serve as a foundational layer for a myriad of applications, from enhancing decentralized governance and meritocratic systems to facilitating new forms of incentive structures and engagement models. 
 
-Its integration with technologies like Ceramic, OrbisDB, and smart contracts on blockchain platforms further underscores its versatility and potential for widespread adoption.
+IPSP has currently two implementations:
+
+- **Onchain Points**: [Learn about Onchain Points](https://developer.newcoin.org/docs/ipsp/onchain-points/)
+- **Verifiable Points**: [Explore Verifiable Points](https://developer.newcoin.org/docs/ipsp/verifiable-points/)
