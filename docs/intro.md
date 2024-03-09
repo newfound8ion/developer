@@ -1,4 +1,4 @@
-# Introducing Newcoin For Apps
+# Newcoin For Apps
 
 Newcoin is an algorithmic points protocol allowing application developers to add up and tap into the intelligence of the Internet.
 
