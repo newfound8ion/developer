@@ -12,9 +12,8 @@ const FeatureList: FeatureItem[] = [
     title: 'What is Newcoin?',
     description: (
       <>
-        Newcoin allows you to mint, distribute, compute and query Immutable Points across the World Wide Web. 
-        Immutable Points are like token balances but they measure the merits of a data object within a context.
-       
+        Newcoin is an Agent Graph Protocol that connects social graphs, blockchain networks and neural networks
+        through a shared language of value that represents weighted relationships between nodes.   
       </>
     ),
   },
@@ -22,8 +21,8 @@ const FeatureList: FeatureItem[] = [
     title: 'Why do I need it?',
     description: (
       <>
-        Make your application natively Sybil-resistant and qualitative by leveraging the ocean of data points available 
-        across the World Wide Web into a universal algorithmic endpoint that can be read by smart contracts, backend and clients.
+        Make your application natively Sybil-resistant, interoperable and qualitative by leveraging the ocean of data points available 
+        across the World Wide Web into a universal algorithmic endpoint that can be read by smart contracts, backends and clients.
       </>
     ),
   },
@@ -31,8 +30,8 @@ const FeatureList: FeatureItem[] = [
     title: 'How does it work?',
     description: (
       <>
-        You can read and write Immutable Points onchain and offchain to build eventually consistent algorithmic mechanism design
-        and allow smart contracts to automate decisions such as ranking, permissions, ressource allocation and more.
+        Each agent issue points that represent how much they trust, value, rate other agents and their objects. Think of it as a universal
+        graph where humans and AI models collaborate to filter the web and make their feedback useful across apps and networks.
       </>
     ),
   },
