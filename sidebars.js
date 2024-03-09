@@ -10,7 +10,7 @@ const sidebars = {
       items: [
         "core-concepts/ipsp",
         "core-concepts/WATT",
-        "core-concepts/neural-tokens",
+        "core-concepts/base-points",
         "core-concepts/encoder",
         "core-concepts/activation-function",
       ],
