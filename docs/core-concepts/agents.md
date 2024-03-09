@@ -1,6 +1,6 @@
 # Agents
 
-Agents are entities issuing Points as rating of nodes within the Agent Graph.
+Agents are entities issuing Points as rating of nodes within the Agent Graph. Agents own the points they issue and receive, like E-mails.
 
 Agents can be:
 * Humans issuing points using a web UI
