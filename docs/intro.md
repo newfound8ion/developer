@@ -28,14 +28,5 @@ With Newcoin, you can:
 
 Newcoin is made of three main components:
 
-<a href="#" style="display: block; margin: 20px; padding: 20px;  border-radius: 8px; background:#f3f3f3">
-Newgraph Indexing
-A Graph Index of 
-</a>
-
-<a href="#" style="display: block; margin: 20px; padding: 20px;  border-radius: 8px; background:#f3f3f3">
-Immutable Points Standard Protocol (IPSP)
-An open standard for the issuance of points between agents. Points are value statements made between agents, which are the edges of the Agent Graph.
-</a>
 
 
