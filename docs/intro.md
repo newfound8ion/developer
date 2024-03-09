@@ -31,6 +31,7 @@ Imagine if all the likes, follows, and transactions as a music artist would incr
 Imagine if all the statements we make about what we like and value would be standardized and shared between various systems to better to compound intelligence across system instead of trying to lock it within silos.
 
 Newcoin is made of three main components:
+
 ![image](https://github.com/newfound8ion/developer/assets/112469623/7b53131d-5337-43f4-950e-c79120191448)
 ![image](https://github.com/newfound8ion/developer/assets/112469623/bde83305-f022-4ab4-a002-dc7a2565ceeb)
 ![image](https://github.com/newfound8ion/developer/assets/112469623/4e7cf73c-99de-4046-a39e-d021f17def7a)
