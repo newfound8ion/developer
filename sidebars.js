@@ -11,7 +11,6 @@ const sidebars = {
         "core-concepts/newkamoto-consensus",
         "core-concepts/WATT",
         "core-concepts/base-points",
-        "core-concepts/agents",
       ],
     },
     {
