@@ -1,6 +1,6 @@
 # Immutable Points
 
-Newcoin uses IPSP as a serialization and normalization layer between all the heterogenous value statements on the internet and the Agent Graph, representing agents by their DiDs, units of content are represented by Open Graph objects and edges are Immutable Points as described in the Immutable Points Standard Protocol, which itself is referencing standards from Verifiable Credentials, Activity Streams and Schema.org. 
+Newcoin uses the Immutable Points Standard protocol (IPSP) as a serialization and normalization layer between all the heterogenous value statements on the internet and the Agent Graph, representing agents by their DiDs, units of content are represented by Open Graph objects and edges are Immutable Points as described in the Immutable Points Standard Protocol, which itself is referencing standards from Verifiable Credentials, Activity Streams and Schema.org. 
 
 
 IPSP is like the RSS feed of how agents relate to other nodes in the Agent Graph, providing a standardized schema for value statements. IPSP is a technology-agnostic standard schema, similar to verifiable credentials, ERC-20 or NFTs, which can be bridged or proven regardless of the platform, programming language or communication protocol. 
