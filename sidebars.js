@@ -1,7 +1,6 @@
 // @ts-check
 
 const sidebars = {
-  // But you can create a sidebar manually
   tutorialSidebar: [
     "intro",
     {
@@ -15,22 +14,22 @@ const sidebars = {
         "core-concepts/agents",
       ],
     },
-  {
-  type: "category",
-  label: "Getting Started",
-    items: [
-    "getting-started/overview",
-   {
-  type: "category",
-   label: "Creating Watts",
-    items: [
-   "getting-started/creating-watts/activation-function-interface",
-   "getting-started/creating-watts/activation-function-logic",
-    "getting-started/creating-watts/register-activation-function",
-   "getting-started/creating-watts/activation-function-approval",
-     "getting-started/creating-watts/call-activate",
-    ],
-      },
+    {
+      type: "category",
+      label: "Getting Started",
+      items: [
+        "getting-started/overview",
+        {
+          type: "category",
+          label: "Creating Watts",
+          items: [
+            "getting-started/creating-watts/activation-function-interface",
+            "getting-started/creating-watts/activation-function-logic",
+            "getting-started/creating-watts/register-activation-function",
+            "getting-started/creating-watts/activation-function-approval",
+            "getting-started/creating-watts/call-activate",
+          ],
+        },
         {
           type: "category",
           label: "Using Watts",
