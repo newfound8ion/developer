@@ -1,6 +1,6 @@
 # Introducing Newcoin For Developers
 
-Newcoin is an Agent Graph Protocol designed to establish contextual trust between agents based on how feedback.
+Newcoin is an Agent Graph Protocol designed to establish contextual trust between agents based on the aggregation of feedback based on past interactions. Most of the internet is composed of weighted directed graphs which represent interaction histories: the likes of your social media post, the reviews your business has on Google Maps, the amount of links that a web page receives on Google Search, the feedback you give to ChatGPT after an inference. Those objects are used by machine learning to predict the next piece of content, who to tag, the next token. This prediction capability is currently siloed within separate systems trying to achieve similar things. With Newcoin we are providing a computing substrate for all networks to communicate and exchange insights with a shared language.
 
 When you interact with people on social media, you give them feedback, in the form of likes, upvotes, downvotes etc. And this data can also be used by machine learning to train and better understand what we value. Which words we expect to see, the correct answer. Social media algorithms and LLMs are able to predict the "next thing" that should come by analyzing patterns of feedback.
 
@@ -11,6 +11,11 @@ Imagine if you could own all your Twitter and Instagram likes and present them t
 Imagine if all the likes, follows, and transactions as a music artist would increase your royalties when you contribute sounds to a music machine learning model.
 
 Imagine if all the statements we make about what we like and value would be standardized and shared between various systems to better to compound intelligence across system instead of trying to lock it within silos.
+
+In order to achieve this synergy, Newcoin will serialize and compute heterogenous statements and prodice Base Points which are on-chain and can be used as weights to reinforce the trust between agents and allow anyone to query a comprehensive representation of an agent.
+
+![image](https://github.com/newfound8ion/developer/assets/112469623/941ebc1a-2257-44d9-82ff-eb645b000c06)
+
 
 Newcoin not only provides an open standard for this Agent Graph, similar to how SMTP works for emails, but also provides a consensus mechanism where all the points we give and receive could be aggregated and weighted in the same way tokens can be exchanged wiuthin liquid markets. 
 
