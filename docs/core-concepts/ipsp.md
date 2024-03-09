@@ -8,6 +8,8 @@ IPSP is like the RSS feed of how agents relate to other nodes in the Agent Graph
 
 Points are verifiable data constructs similar to emails, where both the issuer and the subject have access to the data, and can present it to third parties (verifiers) with a cryptographic signature or the blockchain state itself, making it an overarching trust network that transcends all the technical fragmentation of identity systems, social graphs and blockchains. 
 
+![image](https://github.com/newfound8ion/developer/assets/112469623/7eca9eb8-b12a-47a9-8597-5b8d093f0ae0)
+
 
 With IPSP, all relationships between nodes are numbers with context files following the JLD semantic formatting. For maximum interoperability, the credential edges are primarily numerical: Immutable Points, and represent how agents value any node in the agent graph, where each agent issues points that represent how they value a node, similar to a like, a rating, a vote, a positive sentiment about such nodes (static or agentic). 
 
