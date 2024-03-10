@@ -22,6 +22,22 @@ const sidebars = {
         "ipsp/verifiable-points",
         "ipsp/onchain-points",
       ],
+
+            },
+    {
+      type: "category",
+      label: "Verifiable Points",
+      items: [
+        "ipsp/verifiable-points",
+      ],
+
+      },
+    {
+      type: "category",
+      label: "Onchain Points",
+      items: [
+        "ipsp/onchain-points",
+      ],
       
     },
     {
