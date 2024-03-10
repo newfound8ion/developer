@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Newcoin Developer Documentation",
-  tagline: "Issue and query agent-centric algorithmic points.",
+  tagline: "Add machine learning functions to your decentralized application, for free, with a few lines of code. And no, it's not yet another LLM endpoint.",
   favicon: "img/636cdeb29d8af379852bdd3c_fav1.png",
 
   // Set the production url of your site here
