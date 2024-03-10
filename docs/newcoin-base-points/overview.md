@@ -1,4 +1,4 @@
-# Newcoin Base Points
+# Overview
 
 Base points are a special kind of Immutable Points. While they follow the exact same technical specification as any other onchain implementation of IPSP, the magic happens in the process that lead to their creation.
 
