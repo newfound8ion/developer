@@ -18,6 +18,10 @@
   --ifm-line-height-base: 170%;
 }
 
+table tr {
+    background-color: var(--ifm-table-background);
+}
+
 /* General styling */
 body, html, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, a,
