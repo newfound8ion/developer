@@ -34,6 +34,8 @@ Imagine if all the statements we make about what we like and value would be stan
 Newcoin encodes and computes all the signals available across various platforms and turns them into endpoints that can be queried by any system within the composable web.
 
 To build with Newcoin, you have two main components:
+|       |       |
+|:-----:|:-----:|
 
 | [![IPSP](https://github.com/newfound8ion/developer/assets/112469623/dbc77095-20bb-4f42-9136-815a90931ef9)](/docs/ipsp/overview) | [![Base Points](https://github.com/newfound8ion/developer/assets/112469623/9e51a164-8f4e-44d1-901b-1524278a110f)](/docs/newcoin-base-points/overview) |
 
