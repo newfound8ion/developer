@@ -2,7 +2,11 @@
 
 Newcoin is an algorithmic points protocol allowing application developers to add powerful machine learning capabilities for predictive filtering with a few lines of code.
 
-The thing that makes products like Google, Gmail, TikTok or ChatGPT so powerful is their ability to learn and adapt based on the accumulation of feedback data and the discovery of patterns in user preference. What if we could achieve a synergy between all apps, systems and networks where user preferences, what we like, value, would be shared in a synergistic way.
+|      TL;DR        |
+|-------------------|
+| We are the algorithm layer of the composable web. Think of it as the same kind of powerful algorithms web2 has, but privacy-preseving, open, and interoperable. You can query smart contract tables to read numbers that tell your application if something or someone is adding value to the Web, and you can turn your app into an intelligent system without having to do all the machine learning, data science, computation, data processing etc. and just query those endpoints for each blockchain wallet, for free.|
+
+What makes products like Google, Gmail, TikTok or ChatGPT so powerful is their ability to learn and adapt based on the accumulation of feedback data and the discovery of patterns in user preference. What if we could achieve a synergy between all apps, systems and networks where user preferences, what we like, value, would be shared in a synergistic way.
 
 In order to achieve this synergy, Newcoin encodes all the human and algorithmic points available from social graphs and blockchains and aggregates them into Base Points which are on-chain values that can be universally queryable by smart contracts or any other system. The sum of all the points constitutes a cross-platform Agent Graph, there each agent owns their relationships to all the other nodes of the graph.
 
