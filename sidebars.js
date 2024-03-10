@@ -19,8 +19,6 @@ const sidebars = {
       label: "IPSP",
       items: [
         "ipsp/overview",
-        "ipsp/verifiable-points",
-        "ipsp/onchain-points",
       ],
 
             },
@@ -28,7 +26,7 @@ const sidebars = {
       type: "category",
       label: "Verifiable Points",
       items: [
-        "ipsp/verifiable-points",
+        "ipsp/verifiable-points/overview",
       ],
 
       },
@@ -36,7 +34,7 @@ const sidebars = {
       type: "category",
       label: "Onchain Points",
       items: [
-        "ipsp/onchain-points",
+        "ipsp/onchain-points/overview",
       ],
       
     },
