@@ -18,15 +18,15 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Introducing Newcoin
+            Newcoin for Apps
           </Link>
         </div>
         <img src="/img/welcome.png" alt="Welcome to the cutting-edge, anon!" style={{marginTop: '44px'}} />
         <div className={styles.buttons} style={{marginTop: '44px'}}>
           <Link
             className="button button--secondary button--lg"
-            to="https://github.com/newfound8ion/ipsp">
-            IPSP GitHub Repo
+            to="/docs/intro">
+             Newcoin for Apps
           </Link>
         </div>
       </div>
