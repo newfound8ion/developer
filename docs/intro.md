@@ -6,7 +6,8 @@ The thing that makes products like Google, Gmail, TikTok or ChatGPT so powerful 
 
 In order to achieve this synergy, Newcoin encodes all the human and algorithmic points available from social graphs and blockchains and aggregates them into Base Points which are on-chain values that can be universally queryable by smart contracts or any other system. The sum of all the points constitutes a cross-platform Agent Graph, there each agent owns their relationships to all the other nodes of the graph.
 
-![image](https://github.com/newfound8ion/developer/blob/main/static/img/newcoin-diagram-flow.svg)
+![image](https://github.com/newfound8ion/developer/assets/112469623/6e9b926f-0376-449c-b1b3-606296dc4e63)
+
 
 With Newcoin, you can:
 * Instantly know who and what any agent values
