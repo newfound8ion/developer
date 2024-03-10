@@ -8,10 +8,13 @@ This mechanism aligns closely with the intrinsic human desire for recognition an
 
 By doing so, IPSP not only facilitates a standardized schema for value statements but also ensures that these representations are technology-agnostic, capable of bridging or proving value across platforms, programming languages, or communication protocols.IPSP's significance lies in its potential to revolutionize how value is perceived, measured, and exchanged in digital spaces. By providing a framework for the issuance, management, and verification of points, IPSP enables a decentralized system where individuals can accumulate and own their achievements across platforms, free from the constraints and control of any single entity. This not only empowers users but also fosters a more transparent, equitable, and interconnected digital ecosystem.Moreover, IPSP's open and permissionless nature ensures that it can serve as a foundational layer for a myriad of applications, from enhancing decentralized governance and meritocratic systems to facilitating new forms of incentive structures and engagement models. 
 
+![image](https://github.com/newfound8ion/developer/assets/112469623/2c68aa64-5258-48db-9355-2d9b9b4ba086)
+
+
 IPSP has currently two implementations:
 
-- ** [Onchain Points](https://developer.newcoin.org/docs/ipsp/onchain-points/) **
+- ** [Onchain Points](/docs/ipsp/onchain-points/) **
 Onchain Points are non-transferable (soulbound) numerical (fungible) tokens that can be read by smart contracts using the rails of ERC-20 to unlock a wide range of use cases for onchain applications.
 
-- ** [Verifiable Points](https://developer.newcoin.org/docs/ipsp/verifiable-points/) **
+- ** [Verifiable Points](/docs/ipsp/verifiable-points/) **
 Verifiable Points are offchain but cryptographically signed and therefore verifiable, using the rails of SSI and attestations. You can query them from Ceramic via OrbisDB.
