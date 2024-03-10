@@ -2,9 +2,9 @@
 
 Newcoin is an algorithmic points protocol allowing application developers to add powerful machine learning capabilities for predictive filtering with a few lines of code.
 
-## TL;DR
 
-| |
+
+|## TL;DR |
 |---|
 | We are the algorithm layer of the composable web. Think of it as the same kind of powerful algorithms web2 has, but privacy-preserving, open, and interoperable. You can query smart contract tables to read numbers that tell your application if something or someone is adding value to the Web, and you can turn your app into an intelligent system without having to do all the machine learning, data science, computation, data processing etc., and just query those endpoints for each blockchain wallet, for free. |
 
