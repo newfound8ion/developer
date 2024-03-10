@@ -1,14 +1,30 @@
 # Overview
 
-The Immutable Points Standard Protocol (IPSP) represents a transformative approach to recognizing and representing value across the digital landscape, far beyond the confines of traditional financial assets. At its core, IPSP is about encoding non-monetary value—such as achievements, contributions, and influence—into a standardized, interoperable format that can be recognized and utilized across various platforms and applications. 
+IPSP is the missing link required to turn the Internet into an open graph. When Open graph was introduced by Facebook in 2010 during the F8 conference, it offered a standardized way to represent nodes, especially web pages so any social network, search engine or messaging app would be able to display a widget representing the link.
 
-This protocol is fundamental to the Newcoin ecosystem and poised to impact the broader Web3 and blockchain domains significantly.IPSP introduces a system where points, akin to meta-currencies, serve as a universal language for value. Unlike traditional currencies, these points are not bought or sold; instead, they are earned through actions, behaviors, and contributions, making them a pure reflection of value created or added within a community or platform. 
+But a graph has two key components: the nodes and the edges, which are the relationships between the nodes. Currently, the relationships between nodes, meaning the likes, follow relationships are stored on proprietary servers, making the Open graph ensnared within digital systems. If we want to see a truly open graph, we have to add those edges between agents, content, apps etc. become agent centric and running on public rails.
 
-This mechanism aligns closely with the intrinsic human desire for recognition and achievement, extending it into the digital realm in a way that's both verifiable and immutable.In the Newcoin ecosystem, IPSP acts as a serialization and normalization layer, bridging the gap between diverse value statements on the internet and the Agent Graph. This graph represents agents by their Decentralized Identifiers (DIDs), units of content by Open Graph objects, and the relationships between them through Immutable Points, adhering to the principles laid out in IPSP. 
+Fast forward to 2024, most graphs are no longer relying on the mechanism of graph queries to display content: plafforms like X, Instagram or Spotify are using those relationships to train machine learning models that predict what you should see next, rather than the actual graph data itself.
 
-By doing so, IPSP not only facilitates a standardized schema for value statements but also ensures that these representations are technology-agnostic, capable of bridging or proving value across platforms, programming languages, or communication protocols.IPSP's significance lies in its potential to revolutionize how value is perceived, measured, and exchanged in digital spaces. By providing a framework for the issuance, management, and verification of points, IPSP enables a decentralized system where individuals can accumulate and own their achievements across platforms, free from the constraints and control of any single entity. This not only empowers users but also fosters a more transparent, equitable, and interconnected digital ecosystem.Moreover, IPSP's open and permissionless nature ensures that it can serve as a foundational layer for a myriad of applications, from enhancing decentralized governance and meritocratic systems to facilitating new forms of incentive structures and engagement models. 
+What if graph relationships could be protocolized? What if instead of private companies accumulating this data about our preference, what we value, this data would become agent-centric.
+
+We would run around with the list of things we relate to, and would be able to switch platforms.
+
+And all platforms would be able to read and understand those relationships regardless of the programing language, stack, blockchain, protocol... in the same way emails or verifiable credentials can be issued and verified without the need for a centralized database to store them.
+
+IPSP is the open-spource data construct that makes it possible.
+
+With IPSP, humans and machines have a shared language to represent value.
+
+IPSP brings the fungibility and universality of money, with the utility of graphs and attestations to unlock the next frontier for a decentralized Internet.
+
+With IPSP, you can travel the Internet with your own graph and have it recoignized by any application which can use it to better understand you, your taste, preferences, how you see the world and how the world sees you, while keeping full control over who can see what where and when.
+
+The data construct is derived from the verifiable credentials and blockchain assets primitives and take sthe best of Schema.org and ActivityStreams which are well known W3C standards. It looks like this:
 
 ![image](https://github.com/newfound8ion/developer/assets/112469623/2c68aa64-5258-48db-9355-2d9b9b4ba086)
+
+Now where it gets fascinating is that it not only unlocks a fully interoperable and open Agent Graph fixing cold-starts problems, vendor lock-ins and sunk cost for users, it also creates a massive dataset of behavioural data and a shared language between machine learning agents, unlocking a truly decentralized and intelligent hypernetwork on top of which decentralized AI (DeAI) can thrive, alongside many powerful use cases such as reputation, sybil resistance, algorithmic rankings, data science and many more.
 
 
 IPSP has currently two implementations:
