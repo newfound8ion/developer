@@ -13,9 +13,9 @@
   --ifm-color-primary-light: #000000;
   --ifm-color-primary-lighter: #000000;
   --ifm-color-primary-lightest: #000000;
-  --ifm-code-font-size: 17px;
+  --ifm-code-font-size: 20.6px;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-font-size-base: 17px;
+  --ifm-font-size-base: 20.6px;
   --ifm-line-height-base: 170%;
 }
 
@@ -41,7 +41,7 @@ audio, video {
 
 /* General styling for all elements */
 * {
-  font-size: 17px;
+  font-size: 20.6px;
   font-weight: normal;
   line-height: 170%;
   font-family: 'Newfoundation Whyte' !important;
