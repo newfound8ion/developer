@@ -19,8 +19,8 @@ const sidebars = {
       label: "IPSP",
       items: [
         "ipsp/overview",
-        // "getting-started/using-watts/onchain",
-        // "getting-started/using-watts/ethersjs",
+        "ipsp/verifiable-points",
+        "ipsp/onchain-points",
       ],
       
     },
@@ -29,8 +29,7 @@ const sidebars = {
       label: "Base Points",
       items: [
         "newcoin-base-points/overview",
-        // "getting-started/using-watts/onchain",
-        // "getting-started/using-watts/ethersjs",
+        "newcoin-base-points/registry",
       ],
     },
     {
