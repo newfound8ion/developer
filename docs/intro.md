@@ -2,8 +2,6 @@
 
 Newcoin is an algorithmic points protocol allowing application developers to add powerful machine learning capabilities for predictive filtering with a few lines of code.
 
-
-
 |TL;DR |
 |---|
 | We are the algorithm layer of the composable web. Think of it as the same kind of powerful algorithms web2 has, but privacy-preserving, open, and interoperable. You can query smart contract tables to read numbers that tell your application if something or someone is adding value to the Web, and you can turn your app into an intelligent system without having to do all the machine learning, data science, computation, data processing etc., and just query those endpoints for each blockchain wallet, for free. |
@@ -41,6 +39,6 @@ Newcoin encodes and computes all the signals available across various platforms 
 
 To build with Newcoin, you have two main components:
 
-
-|[![IPSP](https://github.com/newfound8ion/developer/assets/112469623/dbc77095-20bb-4f42-9136-815a90931ef9)](/docs/ipsp/overview) | [![Base Points](https://github.com/newfound8ion/developer/assets/112469623/9e51a164-8f4e-44d1-901b-1524278a110f)](/docs/newcoin-base-points/overview) |
-|:---:|:---:|
+|       |       |
+|:-----:|:-----:|
+| [![IPSP](https://github.com/newfound8ion/developer/assets/112469623/dbc77095-20bb-4f42-9136-815a90931ef9)](/docs/ipsp/overview) | [![Base Points](https://github.com/newfound8ion/developer/assets/112469623/9e51a164-8f4e-44d1-901b-1524278a110f)](/docs/newcoin-base-points/overview) |
