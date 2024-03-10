@@ -1,8 +1,10 @@
 # Newcoin For Apps
 
-Newcoin is an algorithmic points protocol allowing application developers to add up and tap into the intelligence of the Internet.
+Newcoin is an algorithmic points protocol allowing application developers to add powerful machine learning capabilities for predictive filtering with a few lines of code.
 
-In order to achieve this synergy, Newcoin will serialize and aggregate all the human and algorithmic signals available into Base Points which are on-chain algorithmic points that represent the traits ane merits of a blockchain wallet to unlock new models. The sum of all the points constitutes a cross-platform Agent Graph, there each agent owns their relationships to all the other nodes of the graph.
+The thing that makes products like Google, Gmail, TikTok or ChatGPT so powerful is their ability to learn and adapt based on the accumulation of feedback data and the discovery of patterns in user preference. What if we could achieve a synergy between all apps, systems and networks where user preferences, what we like, value, would be shared in a synergistic way.
+
+In order to achieve this synergy, Newcoin will serialize all the human and algorithmic points available from social graphs and blockchains and aggregate them into Base Points which are on-chain values that can be universally queryable by smart contracts or any other system. The sum of all the points constitutes a cross-platform Agent Graph, there each agent owns their relationships to all the other nodes of the graph.
 
 ![image](https://github.com/newfound8ion/developer/assets/112469623/941ebc1a-2257-44d9-82ff-eb645b000c06)
 
@@ -18,11 +20,11 @@ With Newcoin, you can:
 * Retroactively reward public goods
 * Automate and augment data curation and reinforcement learning pipelines
 
-Most of the Internet is composed of weighted directed graphs representing interaction histories: the likes of your social media post, the reviews your business has on Google Maps, the amount of links that a web page receives on Google Search, the feedback you give to ChatGPT after an inference. Those objects are used by machine learning to predict the next piece of content, who to tag, the next token in a sentence. This prediction capability is currently siloed within separate systems trying to achieve similar things. With Newcoin we are providing a computing substrate for all networks to communicate and achieve synergistic intelligence with a shared language.
+Most of the Internet is composed of weighted directed graphs representing interaction histories: the likes of your social media post, the followers count of an influencer, the amount of links that a web page receives on Google Search, the feedback you give to ChatGPT after an inference. Those numbers are used by machine learning to predict the next piece of content, who to tag, the next token in a sentence, the next video to play, should the app flag this tweet or DM... This prediction capability is currently siloed within separate systems, when in fact a data synergy between them could produce a deep, cross-platform intelligence network effect. With Newcoin we are providing a computing substrate for all networks to communicate and achieve synergistic intelligence with a shared data vocabulary.
 
-When you interact with people on social media, you give them feedback, in the form of likes, upvotes, downvotes etc. And this data is used by machine learning models to train and apply predictive filtering that enhance user experience, improves disoverability and mitigates spam. Which words we expect to see, the correct answer. Social media algorithms and LLMs are able to predict the "next thing" that should come by analyzing feedback patterns.
+When you interact with people on social media, you give them feedback, in the form of likes, upvotes, downvotes etc. When you train a model, it generates weights, which are parameters that help improve the model. All those points/scores are statistical models for predictive filtering that enhance user experience, improves disoverability, generative AI and mitigates spam. Social media algorithms and LLMs are able to predict the "next thing" that should come by analyzing vast amount of feedback patterns. The bigger the dataset, the more accurate it becomes, and we can;t achieve big datasets with closed and fragmented competing systems.
 
-Unlike siloed systems where your like of a ChatGPT inference belongs to OpenAI and a like on TikTok belongs to ByteDance, we are building an open graph where all this feedback is owned by the users, who can cross-polinate different networks, from AI to social, to smart contracts, and let machine learning algorithms use this Agent Graph to better coordinate all systems together.
+Unlike siloed systems where your like of a ChatGPT inference belongs to OpenAI and a like on TikTok belongs to ByteDance, we are building an open graph where all this feedback is owned by the users, who can cross-polinate different networks, from AI to social, to smart contracts, and let machine learning algorithms use this Agent Graph to generate synthetic feedback which come from finding patterns. 
 
 Imagine if you could own all your Twitter and Instagram likes and present them to a machine learning algorithm that would generate recommendations on Lens or Farcaster.
 
