@@ -8,18 +8,16 @@ In order to achieve this synergy, Newcoin encodes all the human and algorithmic 
 
 ![image](https://github.com/newfound8ion/developer/assets/112469623/6e9b926f-0376-449c-b1b3-606296dc4e63)
 
-
-With Newcoin, you can:
-* Instantly know who and what any agent values
+With Newcoin, you can add a layer of intelligence to your application:
+* Trust anonymous Internet users
 * Find out if a blockchain wallet or DiD contributes value within a network
-* Benchmark different AI agents and reward them accordingly
 * Sort and prioritize content feeds
 * Mitigate noise, spam and sybil attacks
-* Allocate storage and blockspace to true value creators
+* Susidize storage and blockspace to true value creators
 * Discern bot activity from real value creation
 * Airdrop tokens to the most relevant network participants
 * Retroactively reward public goods
-* Automate and augment data curation and reinforcement learning pipelines
+* Automate and augment data curation and human feedback for reinforcement learning
 
 Most of the Internet is composed of weighted directed graphs representing interaction histories: the likes of your social media post, the followers count of an influencer, the amount of links that a web page receives on Google Search, the feedback you give to ChatGPT after an inference. Those numbers are used by machine learning to predict the next piece of content, who to tag, the next token in a sentence, the next video to play, should the app flag this tweet or DM... This prediction capability is currently siloed within separate systems, when in fact a data synergy between them could produce a deep, cross-platform intelligence network effect. With Newcoin we are providing a computing substrate for all networks to communicate and achieve synergistic intelligence with a shared data vocabulary.
 
@@ -36,11 +34,4 @@ Imagine if all the statements we make about what we like and value would be stan
 Newcoin encodes and computes all the signals available across various platforms and turns them into endpoints that can be queried by any system within the composable web.
 
 ![image](https://github.com/newfound8ion/developer/assets/112469623/941ebc1a-2257-44d9-82ff-eb645b000c06)
-
-Newcoin is made of three main components:
-
-![image](https://github.com/newfound8ion/developer/assets/112469623/7b53131d-5337-43f4-950e-c79120191448)
-![image](https://github.com/newfound8ion/developer/assets/112469623/bde83305-f022-4ab4-a002-dc7a2565ceeb)
-![image](https://github.com/newfound8ion/developer/assets/112469623/4e7cf73c-99de-4046-a39e-d021f17def7a)
-
 
