@@ -48,7 +48,7 @@ const config = {
   themeConfig: {
     image: "/img/641c37a4fce0f1c717da3692_nco-symbol-black.svg",
     navbar: {
-      title: "Newcoin Developer",
+      title: "Developer Docs",
       logo: {
         alt: "Newcoin",
         src: "/img/641c37a4fce0f1c717da3692_nco-symbol-black.svg",
