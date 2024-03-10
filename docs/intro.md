@@ -33,5 +33,5 @@ Imagine if all the statements we make about what we like and value would be stan
 
 Newcoin encodes and computes all the signals available across various platforms and turns them into endpoints that can be queried by any system within the composable web.
 
-![image](https://github.com/newfound8ion/developer/assets/112469623/941ebc1a-2257-44d9-82ff-eb645b000c06)
+
 
