@@ -13,12 +13,22 @@ const sidebars = {
         "core-concepts/WATT", 
         "core-concepts/base-points",
       ],
+      },
+    {
+      type: "category",
+      label: "IPSP",
+      items: [
+        "ipsp/overview",
+        // "getting-started/using-watts/onchain",
+        // "getting-started/using-watts/ethersjs",
+      ],
+      
     },
     {
       type: "category",
-      label: "Using Watts",
+      label: "Base Points",
       items: [
-        "getting-started/using-watts/querying-watts",
+        "newcoin-base-points/overview",
         // "getting-started/using-watts/onchain",
         // "getting-started/using-watts/ethersjs",
       ],
