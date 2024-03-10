@@ -1,10 +1,10 @@
 # Overview
 
-IPSP is the missing link required to turn the Internet into an open graph. When Open graph was introduced by Facebook in 2010 during the F8 conference, it offered a standardized way to represent nodes, especially web pages so any social network, search engine or messaging app would be able to display a widget representing the link.
+IPSP is the missing link required to turn the Internet into an open graph. When Open Graph Protocol was introduced by Facebook at the F8 conference in 2010, it offered a standardized way to represent nodes, especially web pages so any social network, search engine or messaging app would be able to display a widget representing the link.
 
-But a graph has two key components: the nodes and the edges, which are the relationships between the nodes. Currently, the relationships between nodes, meaning the likes, follow relationships are stored on proprietary servers, making the Open graph ensnared within digital systems. If we want to see a truly open graph, we have to add those edges between agents, content, apps etc. become agent centric and running on public rails.
+But a graph has two key components: the nodes and the edges, which are the relationships between the nodes. Currently, the relationships between nodes, meaning the likes, ratings, feedback, follow relationships are stored on proprietary servers, making the Open Graph ensnared within proprietary platforms. If we want to see a truly open graph, we have to make those edges between users, content, apps etc. agent centric, portable, user-controlled running on public rails.
 
-Fast forward to 2024, most graphs are no longer relying on the mechanism of graph queries to display content: plafforms like X, Instagram or Spotify are using those relationships to train machine learning models that predict what you should see next, rather than the actual graph data itself.
+Fast forward to 2024, most graphs are no longer relying on the mechanism of graph queries to display content: plafforms like X, Instagram or Spotify are using those relationships to train machine learning models that predict what you should see next, rather than showing you the users you follow.
 
 What if graph relationships could be protocolized? What if instead of private companies accumulating this data about our preference, what we value, this data would become agent-centric.
 
@@ -14,18 +14,19 @@ And all platforms would be able to read and understand those relationships regar
 
 IPSP is the open-spource data construct that makes it possible.
 
-With IPSP, humans and machines have a shared language to represent value.
+With IPSP, humans and machines have a shared language to represent value. Machines can discern good content fromn noise, real users from bots, by having access to verifiable digital footprints in the form of anonymous numerical values, or points.
 
 IPSP brings the fungibility and universality of money, with the utility of graphs and attestations to unlock the next frontier for a decentralized Internet.
 
-With IPSP, you can travel the Internet with your own graph and have it recoignized by any application which can use it to better understand you, your taste, preferences, how you see the world and how the world sees you, while keeping full control over who can see what where and when.
+With IPSP, you can travel the Internet with your own graph and have it recoignized by any application which can use it to better understand you, your taste, preferences, how you see the world and how the world sees you, in an agent-centric, privacy-preserving way.
 
-The data construct is derived from the verifiable credentials and blockchain assets primitives and take sthe best of Schema.org and ActivityStreams which are well known W3C standards. It looks like this:
+The IPSP data construct is derived from the verifiable credentials and blockchain assets primitives and take sthe best of Schema.org and ActivityStreams which are well known W3C standards. 
+
+It looks like this:
 
 ![image](https://github.com/newfound8ion/developer/assets/112469623/2c68aa64-5258-48db-9355-2d9b9b4ba086)
 
-Now where it gets fascinating is that it not only unlocks a fully interoperable and open Agent Graph fixing cold-starts problems, vendor lock-ins and sunk cost for users, it also creates a massive dataset of behavioural data and a shared language between machine learning agents, unlocking a truly decentralized and intelligent hypernetwork on top of which decentralized AI (DeAI) can thrive, alongside many powerful use cases such as reputation, sybil resistance, algorithmic rankings, data science and many more.
-
+Now where it gets fascinating is that it not only unlocks a fully interoperable and open Agent Graph fixing cold-starts problems, vendor lock-ins and sunk cost for users, it also creates a massive dataset of behavioural data and a shared language between machine learning agents, unlocking a truly decentralized and intelligent hypernetwork on top of which decentralized AI (DeAI) can thrive, alongside many powerful use cases such as reputation, sybil resistance, collaborative filtering, data science and many more.
 
 IPSP has currently two implementations:
 
