@@ -45,8 +45,8 @@ Now where it gets fascinating is that it not only unlocks a fully interoperable 
 
 IPSP has currently two implementations:
 
-- ** [Onchain Points](/docs/ipsp/onchain-points/overview) **
+- **[Onchain Points](/docs/ipsp/onchain-points/overview)**
 Onchain Points are non-transferable (soulbound) numerical (fungible) tokens that can be read by smart contracts using the rails of ERC-20 to unlock a wide range of use cases for onchain applications.
 
-- ** [Verifiable Points](/docs/ipsp/verifiable-points/overview) **
+- **[Verifiable Points](/docs/ipsp/verifiable-points/overview)**
 Verifiable Points are offchain but cryptographically signed and therefore verifiable, using the rails of SSI and attestations. You can query them from Ceramic via OrbisDB.
