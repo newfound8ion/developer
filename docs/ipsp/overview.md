@@ -14,6 +14,18 @@ And all platforms would be able to read and understand those relationships regar
 
 IPSP is the open-spource data construct that makes it possible.
 
+The most powerful use case for IPSP is the decentralization of AI. It unlocks the power of coordination and interoperability across systems and computational layers.
+
+**Technology Agnosticism:** IPSP allows various applications, whether they are AI models, smart contracts, or human interfaces, to communicate effectively by adhering to a standardized data format. This standardization ensures that despite differing underlying technologies, all participants can interact seamlessly within the Newcoin network.
+
+**Data Standardization and Representation:** By quantifying relationships and interactions in a consistent format, IPSP enables a clear representation of value and context across different agents. This feature is fundamental in aligning diverse systems towards common goals and decision-making processes, facilitating a more integrated and efficient network.
+
+**Interoperability Across Agents:** Applications written to comply with the IPSP standard can easily interact with other IPSP-compatible agents. This not only includes other applications but extends to smart contracts and backend systems, thus broadening the scope of interaction and functionality within the Newcoin ecosystem. Such interoperability is critical for enhancing the network's capability to process and utilize data effectively.
+
+**Facilitating Complex Relationships Analysis:** Through IPSP, agents can quantify and track the value flow within the network. This capability is crucial for understanding and analyzing the dynamics of decentralized networks, which can involve numerous agents interacting in multifaceted ways. Newgraph, a component of Newcoin, leverages IPSP to index and query these complex relationships, further enhancing the system's analytical capabilities.
+
+**Enabling Decentralized Decision-Making:** By standardizing how value and decisions are quantified, IPSP supports a decentralized decision-making process across the Newcoin network. This approach diminishes central points of control or failure, distributing authority and autonomy across the network, which aligns with the decentralized and open-source philosophy of Newcoin.
+
 With IPSP, humans and machines have a shared language to represent value. Machines can discern good content fromn noise, real users from bots, by having access to verifiable digital footprints in the form of anonymous numerical values, or points.
 
 IPSP brings the fungibility and universality of money, with the utility of graphs and attestations to unlock the next frontier for a decentralized Internet.
@@ -26,13 +38,7 @@ It looks like this:
 
 ![image](https://github.com/newfound8ion/developer/assets/112469623/2c68aa64-5258-48db-9355-2d9b9b4ba086)
 
-The most powerful use case for IPSP is the decentralization of AI. It unlocks the power of coordination and interoperability across systems and computational layers.
 
-**Technology Agnosticism:** IPSP allows various applications, whether they are AI models, smart contracts, or human interfaces, to communicate effectively by adhering to a standardized data format. This standardization ensures that despite differing underlying technologies, all participants can interact seamlessly within the Newcoin network.
-**Data Standardization and Representation:** By quantifying relationships and interactions in a consistent format, IPSP enables a clear representation of value and context across different agents. This feature is fundamental in aligning diverse systems towards common goals and decision-making processes, facilitating a more integrated and efficient network.
-**Interoperability Across Agents:** Applications written to comply with the IPSP standard can easily interact with other IPSP-compatible agents. This not only includes other applications but extends to smart contracts and backend systems, thus broadening the scope of interaction and functionality within the Newcoin ecosystem. Such interoperability is critical for enhancing the network's capability to process and utilize data effectively.
-**Facilitating Complex Relationships Analysis:** Through IPSP, agents can quantify and track the value flow within the network. This capability is crucial for understanding and analyzing the dynamics of decentralized networks, which can involve numerous agents interacting in multifaceted ways. Newgraph, a component of Newcoin, leverages IPSP to index and query these complex relationships, further enhancing the system's analytical capabilities.
-**Enabling Decentralized Decision-Making:** By standardizing how value and decisions are quantified, IPSP supports a decentralized decision-making process across the Newcoin network. This approach diminishes central points of control or failure, distributing authority and autonomy across the network, which aligns with the decentralized and open-source philosophy of Newcoin.
 
 
 Now where it gets fascinating is that it not only unlocks a fully interoperable and open Agent Graph fixing cold-starts problems, vendor lock-ins and sunk cost for users, it also creates a massive dataset of behavioural data and a shared language between machine learning agents, unlocking a truly decentralized and intelligent hypernetwork on top of which decentralized AI (DeAI) can thrive, alongside many powerful use cases such as reputation, sybil resistance, collaborative filtering, data science and many more.
